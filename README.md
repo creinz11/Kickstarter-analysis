@@ -12,8 +12,7 @@
 
 ## Results
 
-For theater campaigns, we can deduce that April to July provide the highest liklihood of a successfully completed campaign based on our data sample. From September to November, we identified a spike in Failed campaigns, so we recommend staying away from initiating a campaign during this time span. December is the worst time of year to start a campaign based in the data Additionally, we recommend completing additional analysis to understand the root cause of this observation. [Theater_Outcomes_Vs_Launch](/Users/ChristopherReinhardt/Desktop/Vandy/Challenge 1/Resources/to/Theater_Outcomes_Vs_Launch)
-Contribution guidelines for this project](docs/Theater_Outcomes_Vs_Launch).md)
+For theater campaigns, we can deduce that April to July provide the highest liklihood of a successfully completed campaign based on our data sample. From September to November, we identified a spike in Failed campaigns, so we recommend staying away from initiating a campaign during this time span. December is the worst time of year to start a campaign based in the data Additionally, we recommend completing additional analysis to understand the root cause of this observation. [Theater_Outcomes_Vs_Launch]. (docs/Theater_Outcomes_Vs_Launch
 
 In terms of campaign goal, campaigns within the following goal bands have the highest probability of being successful. ![Outcomes_Vs_Goals](/Users/ChristopherReinhardt/Desktop/Vandy/Challenge 1/Resources/to/Outcomes_Vs_Goals)
     
